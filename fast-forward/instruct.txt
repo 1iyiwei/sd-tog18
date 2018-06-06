@@ -1,0 +1,68 @@
+Dear Scott:
+
+With SIGGRAPH 2018 rapidly approaching, we hope you have started working on your conference registration, hotel and flight reservations, and visa requests. We also want to give you time to review the guidelines for providing your Technical Papers Fast Forward video.
+
+
+Technical Papers Fast Forward Guidelines
+
+Event Date/Time: Sunday, 12 August 2018, 6-8 pm
+
+Please read all instructions thoroughly for your Technical Papers Fast Forward Submissions.
+
+Participation: Participation is mandatory as it is part of the Technical Papers entry.
+
+Presentation: You will have 30 seconds to summarize the paper and entice attendees to attend your presentation during the conference.
+
+Submission: Each paper submission is requested to provide a 30 seconds video.
+
+Fast Forward presentations are due on Friday, 29 June 2018, at 22:00 GMT.
+
+TECHNICAL GUIDELINES:
+
+ Video format only: .MOV
+ Frame rate: 30fps
+ Aspect ratio should be standard 16:9.
+ 1080p HD resolution.
+ Video file size: 60 MB or less.
+ Each presentation should be 30 seconds. If your entry is shorter than 30 seconds please extend your entry to the full 30 seconds by holding the last frame.
+
+CONTENT GUIDELINES:
+
+ There is no need to add frames for title/author/session/room/time. Each presenter will have a title slide with these information before each video. This information will also be available during the entire 30-second-pitch on 2 side screens.
+ All of your materials must respect copyrights for all content: music, images and videos. We cannot show copyrighted material during the Technical Papers Fast Forward without permissions.
+ Presentations should be informative and can be humorous, in compliance with ACM’s Anti-Harassment Policy.
+
+SUBMISSION GUIDELINES:
+
+ Sign into the online submission system at https://www.siggraph.org/submit and use the link in your To-Do list to submit the Technical Papers Fast Forward information.
+
+PRESENTATION GUIDELINES:
+
+ You will receive an email closer to the conference detailing the check-in process for the Fast Forward session.
+ Before submitting your file, we strongly suggest that you test your presentation on a Windows machine to make sure it plays properly. It will help to avoid playback issues.
+ Last minute changes cannot be accommodated. No exceptions!
+ We request at least one presenter to come up on stage to narrate their presentation video. Any number of presenters are welcome to come up on stage.
+ Presenters will be standing at two separate podiums. Presentation order will alternate between the two podiums. During even numbered presentations, odd numbered speakers can transition to and from their podium to get ready for the next presentation (and vice-versa).
+
+Please see last year’s live stream as an example. https://bit.ly/2GJjPtw  
+
+ If you have multiple presentations, we encourage you to have different speakers for each. If you wish to have the same speaker, keep in mind that the speaker may need to rush over to the other podium since the second presentation may not be on the same side as the first.
+
+ There will be a short transition between presentations. You may start speaking as soon as your video starts playing.
+ At the end of 30 seconds, your microphone will shut off to allow for the next presenter to speak. Please do not run over your allotted time.
+ Please note that your presentation will play through automatically. You will not have the ability to pause it. No do-overs!
+ In order to provide the best experience for attendees, we recommend you rehearse your presentation multiple times before the event to get familiarized with the timing.
+The links for live stream will be available on the SIGGRAPH 2018 website. Look sharp!
+
+Members of the SIGGRAPH community are invited to attend the Technical Papers Fast Forward session. Please make your presentation as informative and easy to understand to entice the audience to your presentation. This session is typically high-energy, fun, and attended by a large number of audience. In the tradition of these Fast Forward sessions, you are welcome to make your presentation clever and humorous with appropriate decorum for a scientific and professional conference.  
+
+Please feel free to contact us at papersadmin@siggraph.org with any questions.
+
+Sincerely,
+
+Mathieu Desbrun    
+SIGGRAPH 2018 Technical Papers Chair           
+
+Munkhtsetseg Nandigjav
+SIGGRAPH 2018 Creative Development Director     
+
