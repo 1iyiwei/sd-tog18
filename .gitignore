@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# mac junk
+.DS_store
+
+# microsoft temp files
+~*
