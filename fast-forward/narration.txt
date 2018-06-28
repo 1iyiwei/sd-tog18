@@ -1,18 +1,16 @@
 We'd like to fill up a high dimensional space with blue noise points, 
-not too close together, 
-not too far apart.
+not too close, 
+not too far.
 
 One of the only scalable algorithms in high-d is rejection sampling in a local neighborhood,
-but can leave big gaps, especially in high-d.
+but it can leave big gaps, especially in high-d.
 
 Our new Spoke darts algorithm uses line sampling.
 It is just as fast,
-And provides a guarantees that any gaps are probably small,
-in every dimension.
+And provides a guarantees that any gaps are probably small.
 
-See it in action!
+We have motion planning, rendering, geometry, and optimization apps.
 
-(above is about 22 seconds - add a sentence?)
 
 ** Li-Yi version **
 

@@ -1,0 +1,11 @@
+We'd like to fill space with blue noise points, without gaps.
+
+In high dimensions, one of the only scalable methods uses rejection sampling in a local neighborhood,
+but can leave big gaps.
+
+Spoke darts uses line samples,
+and guarantees gaps are probably small,
+regardless of dimension.
+
+Apps are motion planning, rendering, geometry, and optimization
+
