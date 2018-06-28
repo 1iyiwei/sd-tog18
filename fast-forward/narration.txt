@@ -8,3 +8,11 @@ Our new Spoke darts algorithm uses line samples to provide provable guarantees t
 See it in action!
 
 (above is about 22 seconds - add a sentence?)
+
+** Li-Yi version **
+
+https://www.dropbox.com/s/0an7vlzexrlnt3x/ff_liyi.pptx?dl=0
+
+[say something about our method as you did, but shorter.]
+
+Applications of our method include motion planning, rendering, geometry, and optimization.
