@@ -1,0 +1,46 @@
+Dinesh affiliation is now “University of Maryland at College Park” as of May 1, 2018
+Use that in the slides.
+
+
+outline:
+
+
+points:
+
+what:
+high d blue noise, scalable algorithm with guaranteed saturation, a few applications but mainly its about the algorithm.applications - what they are <rep image>
+  8d rendering, unclear what difference saturation makes, we match other's quality
+  8d Delaunay graph, used by global opt
+  100d global optimization - advancing front adaptive search pattern is paramount, 
+  23d motion planning, (non-uniform size rectangle vs. low discrepancy sequence), illustrate where sampling comes in.
+high-d - why can't we do it the same as in low-d? 
+  Simple mps guarantees saturation but doesn't scale.
+  Bridson 2007, prior SIGGRAPH algorithm scales, but doesn't guarantee saturation.
+    point sampling in local annular region
+    unknown saturation? volume fraction within annulus, but large region outside all annuli?
+line-sampling
+  illustrate algorithm
+  show outline of saturation proof, without many equations... 
+  math formula for guarantee - what can be chosen, picked
+output quality, line vs point vs MPS
+  runtime, save about one dimension
+  saturation in practice similar?
+  narrowing beta as d increases
+
+  output distribution sharp discontinuity
+    try non-uniform by length, problem of any sharp rule, local distribution -> discontinuity global
+    doing better, mimic two radii sampling with using two lines
+
+runtime
+ O(d n^2) for large d, can speed up the n^2 factor in low d with k-d trees, other search system
+
+applications - how they work
+
+
+important figures:
+
+m  = \left\lceil  {(-\ln{\epsilon})} (\beta^*-1)^{1-d} \right\rceil
+\Leftrightarrow
+\beta^* = 1 + \left(  \frac{-\ln{\epsilon}}{m} \right)^{1/(d-1)}
+
+"SimpleMPS": A Simple Algorithm for Maximal Poisson-Disk Sampling in High Dimensions, Eurographics 2012
