@@ -1,6 +1,10 @@
 Dinesh affiliation is now “University of Maryland at College Park” as of May 1, 2018
 Use that in the slides.
 
+------- instructions
+ Please arrive 20 mins prior to the start of the session to test your presentation. You can also visit the Speaker Preparation in the West Building, Rooms 111/112, to upload and test your presentation as well. The talk should take up to 18 mins.
+
+-------- 
 
 outline:
 
@@ -22,10 +26,12 @@ line-sampling
   illustrate algorithm
   show outline of saturation proof, without many equations... 
   math formula for guarantee - what can be chosen, picked
-output quality, line vs point vs MPS
+output quality
   runtime, save about one dimension
   saturation in practice similar?
   narrowing beta as d increases
+
+  line vs point vs MPS
 
   output distribution sharp discontinuity
     try non-uniform by length, problem of any sharp rule, local distribution -> discontinuity global
