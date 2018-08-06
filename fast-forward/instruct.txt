@@ -1,4 +1,31 @@
-Dear Scott:
+FF presentation instructions:
+
+Before you pack your bags for Vancouver, carefully read these special Instructions for the Fast Forward Session on Sunday, 12 August, 6-8 pm in which you will present.
+
+Please show up 30 minutes before the show starts. Make sure to go to the check-in desk that will be located at the entrance of the session room in the West Building, Ballroom AB.
+
+Based on your presentation order, please proceed immediately after check-in to the reserved seats in the front of the room with your associated presentation number. Even and Odd numbers will be seated separately (because there are two stages). Note that we only have labeled reserved seats for your requested number of presenters.
+
+Student Volunteers will be lining up presenters by row at one of two stages. When the presentations start, please watch for the cue for your row to line up to go on stage.
+
+Presentations will alternate between the two stages. When the presenter before you is presenting on one stage, you will take position on the opposite stage. You will wait there until the preceding presentation is done, and when your video starts to play you can begin your presentation. Your mic will be cut off when your video ends, so be prepared to speak only for the duration of your video. Rehearse accordingly: there will be no do-overs!
+
+Upon conclusion of your presentation, you may return to the reserved seats for the remainder of the presentations.
+
+Further instructions will be provided on site as well, so please get to the show early.
+
+The Fast Forward show is attended by researchers and artists alike, and it is a great way to kickstart the Technical and Art Papers programs, so we are very much looking forward to your fast forward!
+
+See you very soon in Vancouver,
+
+Munkhtsetseg Nandigjav
+SIGGRAPH 2018 Creative Development Director  
+
+Mathieu Desbrun    
+SIGGRAPH 2018 Technical Papers Chair           
+
+=====================
+FF prep instructions
 
 With SIGGRAPH 2018 rapidly approaching, we hope you have started working on your conference registration, hotel and flight reservations, and visa requests. We also want to give you time to review the guidelines for providing your Technical Papers Fast Forward video.
 
