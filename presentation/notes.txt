@@ -50,3 +50,11 @@ m  = \left\lceil  {(-\ln{\epsilon})} (\beta^*-1)^{1-d} \right\rceil
 \beta^* = 1 + \left(  \frac{-\ln{\epsilon}}{m} \right)^{1/(d-1)}
 
 "SimpleMPS": A Simple Algorithm for Maximal Poisson-Disk Sampling in High Dimensions, Eurographics 2012
+
+====
+
+Q. Robot feet go into then above the floor?
+A. Dinesh says:
+This work was done a while ago (almost 4-5 years ago). In that work, we were using RRT based motion planning algorithm, which only takes into account collision avoidance constraints (in other words no collisions with obstacles). We did not take into account physically-based constraints (e.g. gravity or stability or biomechanics). As a result, it is possible that such motions "its feet go above then below the floor plane” show up.
+
+One possibility is to mention in the future work that we want to extend the sampling methods to take into account such physically-based constraints in generating valid samples. Will that work?
