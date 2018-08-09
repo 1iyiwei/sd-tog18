@@ -2,3 +2,6 @@ Sandia R&A
 SIGGRAPH presentation slides 
 submitted 20 July 2018
 tracking # 841406
+
+8 Aug 2018
+ SAND2018-8796 C
